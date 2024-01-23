@@ -1,8 +1,10 @@
-# LLM Style
+# llm-style
 
 ## `authors` dataset
 
 This dataset contains the experimental data involving creative writing samples from Reddit, GPT, and Bard. For both LLMs, we use the default temperature value.
+
+It can be accessed at this link: https://drive.google.com/file/d/1HR40Xc1skY21MW-DMNI2EhIswVmpdGRX/view?usp=drive_link
 
 The CSV file contains 2400 rows: 80 responses to 10 prompts for the 3 authors. There are 9 columns: author, prompt, and response, along with vectors for common words, function words, BERT, RoBERTa, OPT, and Llama 2. 
 
@@ -53,6 +55,8 @@ Sure , here is a story I 've been thinking about : The man woke up in a dark roo
 ## `temps` dataset
 
 This dataset contains the experimental data involving creative writing samples from Reddit and GPT, with GPT responses varying across a range of temperature values. The 15 temperature values for GPT spanned from 0.1 to 1.5. We employed the same tokenization and rejoining process as in the `authors` dataset.
+
+It can be accessed here: https://drive.google.com/file/d/1bFJfdDI6QQ08NyrPue-eN4pdhnVmVGyc/view?usp=sharing
 
 The CSV file contains 3200 rows: 20 responses to 10 prompts for the 16 authors (15 GPT temperature authors and 1 Reddit author). The columns are the same as in the `authors` dataset. We also use the same 10 prompts as in the `authors` dataset. Here are 3 example responses from the second prompt, each from a different GPT temperature. Each is the first of the 20 stories for the given prompt and author.
 
