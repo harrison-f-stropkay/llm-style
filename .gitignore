@@ -1,5 +1,7 @@
 intermediate_data/
 preliminary_analysis/
+GOOGLE_API_KEY.txt
+nohup.out
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
