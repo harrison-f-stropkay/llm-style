@@ -2,6 +2,8 @@
 
 ## Dataset
 
+The dataset can be found [here](https://drive.google.com/file/d/1Wdv_JWrSXlUG_wfe0GSi447-1gyqnqbz/view). 
+
 This dataset contains our data for analyzing creative writing responses from Reddit, GPT, and Bard. The reddit responses come from [Stories with Convolutional Model
 (Fan et al., 2018)](https://github.com/facebookresearch/fairseq/blob/main/examples/stories/README.md). We also include GPT responses and the accompanying data for a range of GPT temperature values (0.1 to 1.5). 
 
