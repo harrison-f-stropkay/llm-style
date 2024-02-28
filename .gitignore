@@ -2,6 +2,7 @@ intermediate_data/
 preliminary_analysis/
 GOOGLE_API_KEY.txt
 nohup.out
+data_without_gemini.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
