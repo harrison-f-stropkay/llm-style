@@ -4,6 +4,7 @@ GOOGLE_API_KEY.txt
 nohup.out
 data_without_gemini.csv
 data.csv
+driver.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
