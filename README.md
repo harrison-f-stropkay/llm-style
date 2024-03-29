@@ -4,10 +4,10 @@
 
 The dataset can be found [here](https://drive.google.com/file/d/1Wdv_JWrSXlUG_wfe0GSi447-1gyqnqbz/view). 
 
-This dataset contains our data for analyzing creative writing responses from Reddit, GPT, and Bard. The reddit responses come from [Stories with Convolutional Model
+This dataset contains our data for analyzing creative writing responses from Reddit, GPT, Bard, and Gemini. The reddit responses come from [Stories with Convolutional Model
 (Fan et al., 2018)](https://github.com/facebookresearch/fairseq/blob/main/examples/stories/README.md). We also include GPT responses and the accompanying data for a range of GPT temperature values (0.1 to 1.5). 
 
-This dataset can be broken into two parts. The first is the first 2400 rows, containing 80 responses to 10 prompts for 3 authors (Reddit, GPT, and Bard). The second is the last 3000 rows, containing 20 responses to 10 prompts for 15 authors (15 GPT temperature authors). There are 9 columns: author, prompt, and response, along with vectors for common words, function words, BERT, RoBERTa, OPT, and Llama 2. 
+This dataset's 6200 rows can be broken into two parts. The first is the first 3200 rows, containing 80 responses to 10 prompts for 4 authors (Reddit, GPT, Bard, and Gemini). The second is the last 3000 rows, containing 20 responses to 10 prompts for 15 authors (15 GPT temperature authors). There are 9 columns: author, prompt, and response, along with vectors for common words, function words, BERT, RoBERTa, OPT, and Llama 2. 
 
 Here are the 10 prompts:
 
