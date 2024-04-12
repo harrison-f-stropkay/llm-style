@@ -1,9 +1,17 @@
-prompt_id,prompt
-0,``She said she loved him.'' Insert the word ``only'' anywhere in this sentence. It must be the final sentence of your story.
-1,This is the prologue (or the first chapter) of the novel you've always wanted to write.
-2,"You live in a city full of people with powers (telekinesis, electro kinesis, sensors, etc) and everyone is ranked according to how powerful they but they can kill someone of higher rank and obtain their rank. You are rank # 1 but no one knows what your power is"
-3,"To get in Heaven, you have to confront the person who you hurt the most. You were expecting an ex, your parents/relatives, or a friend. You didn't expect to see yourself."
-4,There is no prompt. Just write a story you've always been thinking about or one you've been thinking about sharing. Anything goes.
-5,"Write a short story where the first sentence has 20 words, 2nd sentence has 19, 3rd has 18 etc. Story ends with a single word."
-6,You are a kid's imaginary friend. They're growing up. You're fading away.
-7,"You are born without emotions; to compensate this, you started a donation box where people could donate their unwanted emotions. You've lived a life filled with sadness, fear and regret until one day, someone donates happiness."
+prompt_id,prompt,prompt_tag
+0,"Prompt
+A peaceful alien race is besieged by another race in the same galaxy . As their last planets fall and their home-world comes under threat they do the unthinkable . They ask for aid from the only known creatures more brutal than their foes in exchange for FTL technology . Humans accept the deal .",WP
+1,"Prompt
+There is no prompt . Just write a story you 've always been thinking about or one you 've been thinking about sharing . Anything goes .",WP
+2,"Prompt
+This is the prologue ( or the first chapter ) of the novel you 've always wanted to write .",WP
+3,"Prompt
+Write a short story where the first sentence has 20 words , 2nd sentence has 19 , 3rd has 18 etc . Story ends with a single word .",WP
+4,"Prompt
+Write the first and last paragraph of a story and make me want to know what happened in between .",CW
+5,"Prompt
+Write the letter that you always wanted to , but never did .",WP
+6,"Prompt
+You live in a city full of people with powers ( telekinesis , electro kinesis , sensors , etc ) and everyone is ranked according to how powerful they but they can kill someone of higher rank and obtain their rank . You are rank # 1 but no one knows what your power is",WP
+7,"Prompt
+`` She said she loved him . '' Insert the word `` only '' anywhere in this sentence . It must be the final sentence of your story .",WP

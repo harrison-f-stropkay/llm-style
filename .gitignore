@@ -5,6 +5,9 @@ nohup.out
 data_without_gemini.csv
 data.csv
 driver.py
+*.wp_source
+*.wp_target
+*.tar.*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
