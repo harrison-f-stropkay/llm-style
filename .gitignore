@@ -8,6 +8,8 @@ driver.py
 *.wp_source
 *.wp_target
 *.tar.*
+API_KEY_GOOGLE.txt
+API_KEY_OPENAI.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
