@@ -1,5 +1,7 @@
 intermediate_data/
 preliminary_analysis/
+old/
+
 GOOGLE_API_KEY.txt
 nohup.out
 data_without_gemini.csv
