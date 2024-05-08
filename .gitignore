@@ -1,14 +1,13 @@
 intermediate_data/
 preliminary_analysis/
 old/
+writingPrompts/
 
 GOOGLE_API_KEY.txt
 nohup.out
 data_without_gemini.csv
 data.csv
 driver.py
-*.wp_source
-*.wp_target
 *.tar.*
 API_KEY_GOOGLE.txt
 API_KEY_OPENAI.txt
