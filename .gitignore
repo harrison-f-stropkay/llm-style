@@ -7,7 +7,7 @@ API_KEY_ANTHROPIC.txt
 
 nohup.out
 *.tar.*
-df_binary_classification.csv
+binary_classification.csv
 driver.py
 
 # Byte-compiled / optimized / DLL files
