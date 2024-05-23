@@ -1,17 +1,14 @@
-intermediate_data/
-preliminary_analysis/
-old/
 original_data/
+old/
 
-GOOGLE_API_KEY.txt
-nohup.out
-data_without_gemini.csv
-data.csv
-driver.py
-*.tar.*
 API_KEY_GOOGLE.txt
 API_KEY_OPENAI.txt
 API_KEY_ANTHROPIC.txt
+
+nohup.out
+*.tar.*
+df_binary_classification.csv
+driver.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
