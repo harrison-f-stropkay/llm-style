@@ -11,7 +11,7 @@ Our dataset of writing prompts and responses can be found in the `hewlett` and `
 
 The human responses in the `hewlett` directory are from the Hewlett Foundation's [2019 Automated Scoring of Human Generated Text Responses](https://www.kaggle.com/c/asap-aes/data) dataset. The human responses in the `reddit` directory are from [Fan et al., 2018](https://github.com/facebookresearch/fairseq/blob/main/examples/stories/README.md). 
 
-`data.ipynb` contains human response collation and LLM responses generation.
+`data.ipynb` contains collation of the human responses and generation of the LLM responses.
 
 `analysis.ipynb` contains analysis of the responses using clustering, classification, and other techniques.
 
