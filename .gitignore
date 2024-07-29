@@ -1,6 +1,9 @@
 original_data/
 old/
 
+# files too large
+results/
+
 API_KEY_GOOGLE.txt
 API_KEY_OPENAI.txt
 API_KEY_ANTHROPIC.txt
