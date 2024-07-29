@@ -2,7 +2,7 @@ original_data/
 old/
 
 # files too large
-results/
+classification_results/
 
 API_KEY_GOOGLE.txt
 API_KEY_OPENAI.txt
