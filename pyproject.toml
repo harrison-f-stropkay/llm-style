@@ -2,9 +2,8 @@
 name = "llm-style"
 version = "0.1.0"
 description = ""
-authors = ["Harrison Stropkay <harrison.stropkay@jhuapl.edu>"]
+authors = ["Harrison Stropkay <harrison.f.stropkay.25@dartmouth.edu>"]
 readme = "README.md"
-#package-mode = false
 
 [tool.poetry.dependencies]
 python = ">=3.10"
