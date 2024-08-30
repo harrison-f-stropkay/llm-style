@@ -13,6 +13,4 @@ The human responses in the `hewlett` directory are from the Hewlett Foundation's
 
 `data.ipynb` contains collation of the human responses and generation of the LLM responses.
 
-`analysis.ipynb` contains analysis of the responses using clustering, classification, and other techniques.
-
-`results` contains classification results. 
+`final_analysis.ipynb` contains analysis of the responses using clustering, classification, and other techniques.
